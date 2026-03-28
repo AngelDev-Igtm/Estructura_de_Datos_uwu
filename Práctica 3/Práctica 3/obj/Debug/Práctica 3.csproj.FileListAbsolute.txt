@@ -1,0 +1,7 @@
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe.config
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\bin\Debug\Práctica 3.exe
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\bin\Debug\Práctica 3.pdb
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\obj\Debug\Práctica 3.csproj.AssemblyReference.cache
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\obj\Debug\Práctica 3.csproj.CoreCompileInputs.cache
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\obj\Debug\Práctica 3.exe
+C:\Users\frosa\OneDrive\Documentos\Astral\Práctica 3\Práctica 3\obj\Debug\Práctica 3.pdb
